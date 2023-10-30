@@ -1,0 +1,100 @@
+body{
+  background-color: white;
+}
+
+h1{
+  font-family: Metal Mania, sans-serif;
+  font-size: 3rem;
+  color: green;
+  padding: 5px;
+  margin-top: 5px;
+  }
+
+
+.card-title{
+  margin: 10px;
+}
+.title-text{
+  color: black;
+  font-family: Teko, sans-serif;
+  font-size: 4.5rem;
+  
+}
+.creative{
+  color: goldenrod;
+}
+
+.creativeb{
+  color: red;
+}
+
+img{
+  float: left;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+}
+
+.left{
+  float: left
+}
+.right{
+  float: right;
+}
+.card{
+ width: 45%;
+
+}
+
+p{
+  font-family: Kalam, sans-serif;
+}
+
+.logo {
+  width: 100px; 
+  height: 100px;
+
+
+}
+.position {
+    clear: both; 
+}
+.position-card{
+  float: right;
+
+}  
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: midnightblue;
+}
+
+
+@media (max-width: 680px) {
+  .logo {
+    width: 100px;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .card {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+
+  .card img {
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline;
+    object-fit: cover;
+  }
+
+
+}
