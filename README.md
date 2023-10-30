@@ -7,3 +7,5 @@ Hello, everyone! 👋 This is the repository where I will document my journey of
 The goal of this project is to dive into the world of responsive web design, understanding how to make content accessible and enjoyable on various devices. We will explore best practices and techniques to achieve a design that works seamlessly on both large and small screens. 📚🌟
 
 Together, let's learn and create an impressive responsive website! 👨‍💻👩‍💻
+
+you can view here: https://medeiroscaio.github.io/Responsive-Website-htmlcssintroduction/
